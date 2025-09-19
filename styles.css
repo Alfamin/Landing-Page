@@ -64,7 +64,7 @@ a{
   margin-top: 16px;
 }
 
-.header-button{
+.header-button, .signup{
   background-color: #3882f6;
   color: #f9faf8;
   font-weight: 700;
@@ -177,3 +177,43 @@ li p {
   
 }
 
+.container4 {
+ padding: 100px 200px;
+}
+
+.main4th{
+  background-color: #3882f6;
+  padding: 40px 100px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 200px;
+  
+}
+
+.cot{
+  font-size: 24px;
+  color: white;
+  font-weight: 600;
+}
+
+.cot-signup{
+  color: white;
+  font-size: 18px;
+}
+
+.signup{
+  border: 2px solid white;
+  max-height: 30px;
+  font-weight: 600;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.footer{
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 30px 0;
+  width: 100%;
+}
